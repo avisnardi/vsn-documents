@@ -1,0 +1,10 @@
+#
+IntelliJ IDEA Community - Local
+Git - Local
+Java - Local
+Postman - Local
+DBeaver - Local
+
+Postgres - Container
+Kafka - Container
+
